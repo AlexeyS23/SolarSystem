@@ -12,5 +12,12 @@ Solana.Heat="67676767676kj";
 Solana.radius="88888888888km";
 Solana.temp="1233456c";
 
+
+
+//adding planet1 features
+        PLANET1 narwhal = new PLANET1();
+        narwhal.color="green";
+        narwhal.size="12343434323rm";
+
     }
 }
