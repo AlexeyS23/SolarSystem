@@ -12,5 +12,11 @@ Solana.Heat="67676767676kj";
 Solana.radius="88888888888km";
 Solana.temp="1233456c";
 
+
+//Planet 2 features
+        Planet2 perry=new Planet2();
+        perry.color="yellow";
+        perry.size="555555555km";
+
     }
 }
